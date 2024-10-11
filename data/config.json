@@ -1,0 +1,12 @@
+{
+    "email": {
+        "sender": "your_email@example.com",
+        "receiver": "receiver_email@example.com",
+        "password": "your_email_password",
+        "smtp_server": "smtp.example.com",
+        "smtp_port": 587
+    },
+    "stock": {
+        "ticker": "AAPL"
+    }
+}
